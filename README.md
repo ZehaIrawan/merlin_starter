@@ -60,8 +60,8 @@ SKIP_PREFLIGHT_CHECK=true
 * react-moment
 
 ### Dev
-nodemon  => auto reload server when there is changes
-concurrently => allow us to run backend & front end at the same time
+* nodemon  => auto reload server when there is changes
+* concurrently => allow us to run backend & front end at the same time
 
 ### License
 
